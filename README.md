@@ -1,6 +1,6 @@
 ## Changes
 
-Used to trigger new deployments. Changes made: 1
+Used to trigger new deployments. Changes made: 2
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
